@@ -1,18 +1,17 @@
 {
     "cats": [
         {
-            "img": "https://i.pinimg.com/originals/b8/52/c0/b852c0318a4a41eabc330d4c8780046e.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/lofi.json"
             ],
             "sources": [
-                "https://www.pinterest.com/yoxeric/wallofi/",
                 "https://www.pinterest.com/Forthright2/lofi/"
             ],
             "cat": "lofi"
         },
         {
-            "img": "https://i.pinimg.com/originals/ac/a8/fc/aca8fc26c76ba45bf05bbabc25765f51.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/water.json"
             ],
@@ -22,7 +21,7 @@
             "cat": "water"
         },
         {
-            "img": "https://i.pinimg.com/originals/9b/9a/b8/9b9ab8627f67e3b6a854c02db889c609.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/vaporwave.json"
             ],
@@ -32,9 +31,9 @@
             "cat": "vaporwave"
         },
         {
-            "img": "https://i.pinimg.com/originals/4e/24/bf/4e24bf8eac00ee8ad56bbdad8874c06b.jpg",
+            "img": "",
             "list": [
-                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/vaporwave.json"
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/sky.json"
             ],
             "sources": [
                 "https://www.pinterest.com/Forthright2/sky/"
@@ -42,7 +41,7 @@
             "cat": "sky"
         },
         {
-            "img": "https://i.pinimg.com/originals/ee/c2/64/eec26479e0acfa95128d727889f533d2.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/quote.json"
             ],
@@ -52,7 +51,7 @@
             "cat": "quote"
         },
         {
-            "img": "https://i.pinimg.com/originals/c9/31/c3/c931c38d8223452f1c7f72785a74cc86.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/dark.json"
             ],
@@ -62,7 +61,7 @@
             "cat": "dark"
         },
         {
-            "img": "https://i.pinimg.com/originals/d1/50/1b/d1501bb9c5104771a08b46e02dbb5028.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/art.json"
             ],
@@ -72,7 +71,7 @@
             "cat": "art"
         },
         {
-            "img": "https://i.pinimg.com/originals/51/71/17/517117ed34786c1e497363d86679a6f2.jpg",
+            "img": "",
             "list": [
                 "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/space.json"
             ],
@@ -80,6 +79,106 @@
                 "https://www.pinterest.com/Forthright2/space/"
             ],
             "cat": "space"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/car.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/car/"
+            ],
+            "cat": "car"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/retro.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/retro/"
+            ],
+            "cat": "retro"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/anime.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/anime/"
+            ],
+            "cat": "anime"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/brand.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/brand/"
+            ],
+            "cat": "brand"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/texture.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/texture/"
+            ],
+            "cat": "texture"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/salam.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/salam/"
+            ],
+            "cat": "salam"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/pop.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/pop/"
+            ],
+            "cat": "pop"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/game.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/game/"
+            ],
+            "cat": "game"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/live.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/live/"
+            ],
+            "cat": "live"
+        },
+        {
+            "img": "",
+            "list": [
+                "https://raw.githubusercontent.com/tricyan3/repo-train/refs/heads/main/cats/dream.json"
+            ],
+            "sources": [
+                "https://www.pinterest.com/Forthright2/dream/"
+            ],
+            "cat": "dream"
         }
     ]
 }
